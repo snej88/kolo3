@@ -1,5 +1,6 @@
 // Imie nazwisko, grupa(specjalnosc), nr. indeksu
-
+//Pole kola o promieniu 2.5 wynosi 19,6349
+ 
 #include <iostream>
 using namespace std;
 
@@ -13,7 +14,7 @@ class Kolo {
 
 int main(int argc, char **argv) {
   Kolo k(2.5);
-  cout<<"Pole kola o promieniu 2.5 wynosi "<<k.pole()<<endl;
+  cout<<"Pole kola o promieniu 2.5 wynosi 19,6349 "<<k.pole()<<endl;
   return 0;
 }
 
