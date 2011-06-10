@@ -1,4 +1,4 @@
-// Imie nazwisko, grupa(specjalnosc), nr. indeksu
+// Tomasz, ABiBD, 101581
 
 #include <iostream>
 #include <fstream>
